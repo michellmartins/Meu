@@ -8,8 +8,11 @@ html body{
 
     
     width: 98vw;
-    background-color: black;
-    min-width: 477px;
+    background-color: black;    
+    min-width: 410px;
+   
+
+    
 }
 
 .banner {
@@ -37,7 +40,7 @@ html body{
 main {
     position: relative;
     height: 96vh;
-   
+    
       
     
 }
